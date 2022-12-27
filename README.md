@@ -6,4 +6,4 @@ Use the dataset of data from one earthquake and P and S wave arrival time of eac
 
 Mentors: Georgy Manucharyan, Maleen Wijeratna Kidiwela, Zoe Krauss
 
-Collaborators: Noah Barton, Alton Daley
+Collaborators: Noah Barton, Alton Daley, Michael Sun
